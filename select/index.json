@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不眠症の見張り番 - Fuminsyou no mihariban(The Sleepless Watcher)",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-18T13:48:39.234288Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不眠症の見張り番",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_不眠症の見張り番_amazarashi.txt"
+    }
+  ]
+}
